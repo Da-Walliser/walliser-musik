@@ -1,17 +1,17 @@
-# walliser-musik
-Mein erstes GitHub-Projekt
+# Dä Walliser – Musiker & Akkordeonist aus der Schweiz
 
-🎵 Musiker & Akkordeonist  
-🇨🇭 Switzerland  
+Dä Walliser ist Musiker und Akkordeonist aus der Schweiz.
+Er spielt Unterhaltungsmusik, Ländler, Schlager und Volksmusik
+für Restaurants, Hotels, private Anlässe und öffentliche Veranstaltungen.
+
+🎵 Akkordeonist – Bugari Evo  
+🎶 Unterhaltungsmusik, Ländler & Schlager  
+📍 Schweiz  
+## Musikalische Unterhaltung
+Live-Musik für:
+- Restaurants und Hotels
+- Geburtstage und Familienfeiern
+- Firmenanlässe
+- Öffentliche Events
+
 🎶 Musik aus Leidenschaft
- Dä Walliser 🎶
-
-🎵 Musiker & Akkordeonist  
-🎹 Bugari Evo  
-## Über mich
-Musikalische Unterhaltung für:
-- Restaurants & Hotels
-- Private Anlässe
-- Öffentliche Veranstaltungen
-
-🎶 Musik aus Leidenschaft🇨🇭 Switzerland  
